@@ -69,7 +69,7 @@ This project demonstrates my ability to **understand, adapt, and improve existin
 
 ## Documentation
 
-Detailed system documentation, diagrams, and screenshots are available in the **`/docs`** folder.
+Detailed system documentation, diagrams, and screenshots are available in the **`docs`** folder.
 
 ## Future Improvements
 
