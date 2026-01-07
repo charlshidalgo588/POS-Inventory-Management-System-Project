@@ -69,7 +69,7 @@ This project demonstrates my ability to **understand, adapt, and improve existin
 
 ## Documentation
 
-Detailed system documentation, diagrams, and screenshots are available in the **`docs`** folder.
+Detailed system documentation, diagrams, and screenshots are available in the **`[docs](https://github.com/charlshidalgo588/posinventory_management_sytem/tree/e75a9008819a81dc520d68944654b63ecf6ff8b5/docs)`** folder.
 
 ## Future Improvements
 
